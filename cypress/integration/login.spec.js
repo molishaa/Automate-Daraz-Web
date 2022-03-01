@@ -6,7 +6,7 @@ describe('Visit Daraz website', () => {
   //   cy.visit('https://www.daraz.com.np/')
  
   // })
-    it('Visiting URL ',function (){
+    it('Visiting URL',function (){
 
     
       cy.visit('https://www.daraz.com.np/')
